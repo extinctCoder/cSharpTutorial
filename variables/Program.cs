@@ -10,6 +10,7 @@ namespace variables
     {
         static void Main(string[] args)
         {
+            
         }
     }
 }
