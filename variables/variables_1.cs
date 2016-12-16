@@ -12,6 +12,5 @@ namespace variables
         char charVariableOne, charVariablesTow;
         float floatVariableOne, floatVariablesTow;
         double doubleVariableOne, doubleVariablesTow;
-
     }
 }

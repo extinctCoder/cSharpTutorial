@@ -46,6 +46,8 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="variables_1.cs" />
+    <Compile Include="variables_2.cs" />
+    <Compile Include="variables_3.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
